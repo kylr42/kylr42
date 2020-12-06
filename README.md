@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning PHP and Phalcon and other PHP frameworks.
 - 🤔 I’m looking for help with projects on Phalcon.
 - 💬 Ask me about Phalcon.
-- 📫 How to reach me: [Telegram - @YouGit(https://t.me/YouGit).
+- 📫 How to reach me: [Telegram - @YouGit](https://t.me/YouGit).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact:  I’m a Japanophile. I love everything about the culture: the food, the history, the etiquette, the landscape, the architecture — all of it. I would eat sushi every day if I could.
 
