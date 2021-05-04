@@ -13,6 +13,9 @@
 <br/>
 <br/>
 
+
+[![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **AJ-Se7eN/AJ-Se7eN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -44,7 +47,6 @@
 </details>
 
 <br />
-[![pde-bakk's 42 stats](https://badge42.herokuapp.com/api/stats/pde-bakk)](https://github.com/JaeSeoKim/badge42)
 <br />
 
 <a href="https://github.com/AJ-Se7eN">
