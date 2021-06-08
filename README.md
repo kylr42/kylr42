@@ -4,13 +4,14 @@
 **AJ-Se7eN/AJ-Se7eN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [@marketplace](https://github.com/AJ-Se7eN/marketplace) and PHP Projects.
-- 🌱 I’m currently learning PHP and Phalcon and other PHP frameworks.
-- 🤔 I’m looking for help with projects on Phalcon.
-- 💬 Ask me about Phalcon.
+- 🔭 I'm currently learning C (Cub3D)!
+- 🌱 Here you can find the projets that I do at Ecole 42 (school 21).
+- 🤔 I’m looking for help with Cub3D projects.
+- 💬 Ask me about Linux Administration.
 - 📫 How to reach me: [Telegram - @YouGit](https://t.me/YouGit).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact:  I’m a Japanophile. I love everything about the culture: the food, the history, the etiquette, the landscape, the architecture — all of it. I would eat sushi every day if I could.
+
 
 <br />
 <br />
