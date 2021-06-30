@@ -20,9 +20,7 @@
 
 [![jsiona's 42 stats](https://badge42.herokuapp.com/api/stats/jsiona)](https://github.com/JaeSeoKim/badge42)
 
-<a href="https://github.com/AJ-Se7eN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Se7eN&theme=react&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/AJ-Se7eN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ-Se7eN&show_icons=true&show_icons=true&theme=react&line_height=27" alt="Pawan's github stats"/>
 </a>
