@@ -12,17 +12,22 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact:  I’m a Japanophile. I love everything about the culture: the food, the history, the etiquette, the landscape, the architecture — all of it. I would eat sushi every day if I could.
 
+<table>
+<tr>
+  <td></br>
 
-<br />
-<br />
-<br />
+  [![jsiona's 42 stats](https://badge42.herokuapp.com/api/stats/jsiona)](https://github.com/JaeSeoKim/badge42)
+
+  </td>
+  <td>
+  <a href="https://github.com/AJ-Se7eN"> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ-Se7eN&show_icons=true&show_icons=true&theme=react&line_height=27"       alt="Pawan's github stats"/>
+</a></td>
+</tr>
+
+</table>
 
 
-[![jsiona's 42 stats](https://badge42.herokuapp.com/api/stats/jsiona)](https://github.com/JaeSeoKim/badge42)
 
-
-<a href="https://github.com/AJ-Se7eN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ-Se7eN&show_icons=true&show_icons=true&theme=react&line_height=27" alt="Pawan's github stats"/>
-</a>
 
 
