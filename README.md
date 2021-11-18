@@ -20,8 +20,8 @@
 
   </td>
   <td>
-  <a href="https://github.com/AJ-Se7eN"> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ-Se7eN&show_icons=true&show_icons=true&theme=react&line_height=27"       alt="Pawan's github stats"/>
+  <a href="https://github.com/kylr42"> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kylr42&show_icons=true&show_icons=true&theme=react&line_height=27"       alt="JSiona's github stats"/>
 </a></td>
 </tr>
 
