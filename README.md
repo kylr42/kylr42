@@ -4,11 +4,11 @@
 **AJ-Se7eN/AJ-Se7eN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I'm currently learning C (Cub3D)!
+- 🔭 I'm currently learning c++ (Webserv)!
 - 🌱 Here you can find the projets that I do at Ecole 42 (school 21).
-- 🤔 I’m looking for help with Cub3D projects.
+- 🤔 I’m looking for help with Webserv projects.
 - 💬 Ask me about Linux Administration.
-- 📫 How to reach me: [Telegram - @YouGit](https://t.me/YouGit).
+- 📫 How to reach me: [Telegram - @kylr42](https://t.me/kylr42).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact:  I’m a Japanophile. I love everything about the culture: the food, the history, the etiquette, the landscape, the architecture — all of it. I would eat sushi every day if I could.
 
