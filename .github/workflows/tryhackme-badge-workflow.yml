@@ -1,8 +1,10 @@
 name: TryHackMe Update Badge
 
 on:
+  push:
   schedule:
     - cron:  '30 5,17 * * *'
+  workflow_dispatch:
 jobs:
   tryhackme-badge-update:
     name: Update this repo's tryhackme badge with the latest tryhackme image badge
