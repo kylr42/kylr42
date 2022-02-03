@@ -15,18 +15,5 @@
 [ ![jsiona](https://www.hackthebox.eu/badge/image/848069)](https://www.hackthebox.eu/home/users/profile/848069)
 
 
-<table>
-<tr>
-  <td></br>
-
-  [![jsiona's 42 stats](https://badge42.herokuapp.com/api/stats/jsiona)](https://github.com/JaeSeoKim/badge42)
-
-  </td>
-  <td>
-  <a href="https://github.com/kylr42"> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kylr42&show_icons=true&show_icons=true&theme=react&line_height=27"       alt="JSiona's github stats"/>
-</a></td>
-</tr>
-</table>
 
 
