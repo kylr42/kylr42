@@ -11,8 +11,6 @@
 
 </br>
 
-[ ![jsiona](./assets/thm_propic.png)](https://tryhackme.com/p/jsiona)
-[ ![jsiona](https://www.hackthebox.eu/badge/image/848069)](https://www.hackthebox.eu/home/users/profile/848069)
 
 
 
